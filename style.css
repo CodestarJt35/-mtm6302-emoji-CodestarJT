@@ -1,0 +1,15 @@
+
+#emoji {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.emoji-item {
+    font-size: 3rem;
+    text-align: center;
+    margin: 1rem;
+    border: 1px solid #000;
+    padding: 1rem;
+}
